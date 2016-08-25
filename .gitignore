@@ -1,2 +1,5 @@
 # LibreCAD backup files
 *.dxf~
+
+# Backup files
+bak
